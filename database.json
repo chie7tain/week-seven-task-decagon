@@ -1,0 +1,71 @@
+[
+  {
+    "id": 1,
+    "author": "John Stone",
+    "dateRegistered": 1637159465420,
+    "age": 28,
+    "address": "5, Wall Street, Buckingham",
+    "books": [
+      {
+        "id": "book1",
+        "name": "Tomorrow is coming",
+        "isPublished": true,
+        "datePublished": 1637159508581,
+        "serialNumber": "0010"
+      },
+      {
+        "id": "book2",
+        "name": "October's very own",
+        "isPublished": false,
+        "datePublished": null,
+        "serialNumber": null
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "author": "jack Stone",
+    "dateRegistered": 1637159465420,
+    "age": 28,
+    "address": "5, Wall Street, Buckingham",
+    "books": [
+      {
+        "id": "book1",
+        "name": "Tomorrow is coming",
+        "isPublished": true,
+        "datePublished": 1637159508581,
+        "serialNumber": "0010"
+      },
+      {
+        "id": "book2",
+        "name": "October's very own",
+        "isPublished": false,
+        "datePublished": null,
+        "serialNumber": null
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "author": "Wilbur Smith",
+    "dateRegistered": 1637159465420,
+    "age": 28,
+    "address": "5, Wall Street, Buckingham",
+    "books": [
+      {
+        "id": "book1",
+        "name": "Dune",
+        "isPublished": true,
+        "datePublished": 1637159508581,
+        "serialNumber": "121"
+      },
+      {
+        "id": "book2",
+        "name": "Dune book two",
+        "isPublished": false,
+        "datePublished": null,
+        "serialNumber": null
+      }
+    ]
+  }
+]
